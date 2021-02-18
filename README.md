@@ -1,5 +1,7 @@
 # dom-to-image-retina
 
+[![npm version](https://badgen.net/npm/v/dom-to-image-retina)](https://npm.im/dom-to-image-retina)
+
 This combines [dom-to-image-chrome-fix-retina](https://npm.im/dom-to-image-chrome-fix-retina) and [changedpi](https://www.npmjs.com/package/changedpi).
 
 ## Usage
