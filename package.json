@@ -1,0 +1,21 @@
+{
+  "name": "dom-to-image-retina",
+  "version": "0.0.0",
+  "description": "dom-to-image but generates high-resolution images",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup index.ts --format cjs,esm --dts"
+  },
+  "devDependencies": {
+    "changedpi": "^1.0.4",
+    "dom-to-image-chrome-fix-retina": "^2.6.0",
+    "tsup": "^4.0.0",
+    "typescript": "^4.1.5"
+  }
+}
