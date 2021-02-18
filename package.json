@@ -1,6 +1,6 @@
 {
   "name": "dom-to-image-retina",
-  "version": "0.0.0",
+  "version": "0.0.0-managed-by-semantic-release",
   "description": "dom-to-image but generates high-resolution images",
   "license": "MIT",
   "files": [
